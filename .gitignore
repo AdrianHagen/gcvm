@@ -10,3 +10,6 @@ __pycache__/
 
 # Data artifacts
 notebooks/data/
+
+# VS Code
+.vscode/
